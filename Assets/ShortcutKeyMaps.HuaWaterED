@@ -1,0 +1,44 @@
+[
+    {
+        "eventID": "AddTap",
+        "isDoublePress": false,
+        "keyCode": 113,
+        "keyCode2": 0
+    },
+    {
+        "eventID": "AddHold",
+        "isDoublePress": false,
+        "keyCode": 119,
+        "keyCode2": 0
+    },
+    {
+        "eventID": "AddDrag",
+        "isDoublePress": false,
+        "keyCode": 101,
+        "keyCode2": 0
+    },
+    {
+        "eventID": "AddFlick",
+        "isDoublePress": false,
+        "keyCode": 114,
+        "keyCode2": 0
+    },
+    {
+        "eventID": "AddPoint",
+        "isDoublePress": false,
+        "keyCode": 116,
+        "keyCode2": 0
+    },
+    {
+        "eventID": "AddFullFlick",
+        "isDoublePress": false,
+        "keyCode": 121,
+        "keyCode2": 0
+    },
+    {
+        "eventID": "AddEvent",
+        "isDoublePress": true,
+        "keyCode": 117,
+        "keyCode2": 0
+    }
+]

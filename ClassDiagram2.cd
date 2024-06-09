@@ -1,0 +1,781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BasicLine" Collapsed="true">
+    <Position X="72.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ChartPreviewEdit\BasicLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeatLine" Collapsed="true">
+    <Position X="74.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAACAAAAAAAAgCAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ChartPreviewEdit\BeatLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VLine" Collapsed="true">
+    <Position X="72.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ChartPreviewEdit\VLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VLines" Collapsed="true">
+    <Position X="74.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAACAAAAAAAACAgAAAAAAAEBAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ChartPreviewEdit\VLines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Edit_EventEdit" Collapsed="true">
+    <Position X="70.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\EventsEdit\Edit\Edit_EventEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Edit_NoteEdit" Collapsed="true">
+    <Position X="72.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\EventsEdit\Edit\Edit_NoteEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventsEdit_Edit" Collapsed="true">
+    <Position X="39.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\EventsEdit\EventsEdit_Edit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragEdit" Collapsed="true">
+    <Position X="5.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\DragEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlickEdit" Collapsed="true">
+    <Position X="7.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\FlickEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FullFlickEdit" Collapsed="true">
+    <Position X="10" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\FullFlickEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoldEdit" Collapsed="true">
+    <Position X="12.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\HoldEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoteEdit" Collapsed="true">
+    <Position X="6.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEACAAAAAAAAAAAAAQACAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\NoteEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointEdit" Collapsed="true">
+    <Position X="1" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\PointEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TapEdit" Collapsed="true">
+    <Position X="3.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Note\TapEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxNumber" Collapsed="true">
+    <Position X="21.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAACAAAAAAAAAAEAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\BoxNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Copy" Collapsed="true">
+    <Position X="79.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Copy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cut" Collapsed="true">
+    <Position X="81.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Cut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DebugText" Collapsed="true">
+    <Position X="41.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAIAACAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\DebugText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventView" Collapsed="true">
+    <Position X="81.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQQAAAAAAAAAAAAAAAAAAAAABAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\EventView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorizontalLine" Collapsed="true">
+    <Position X="48.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAACAAAAAAAAAAEAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\HorizontalLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineNumber" Collapsed="true">
+    <Position X="55.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAACAAAAAAAAAAEAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\LineNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Offset" Collapsed="true">
+    <Position X="74.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Offset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="On_Off" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\On_Off.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paste" Collapsed="true">
+    <Position X="76" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Paste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pause" Collapsed="true">
+    <Position X="77.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Pause.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Play" Collapsed="true">
+    <Position X="79.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Play.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAlpha" Collapsed="true">
+    <Position X="26" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\PlayerAlpha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlaySpeed" Collapsed="true">
+    <Position X="35" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\PlaySpeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBar" Collapsed="true">
+    <Position X="44" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\ProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressInfomation" Collapsed="true">
+    <Position X="46.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\ProgressInfomation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings" Collapsed="true">
+    <Position X="50.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShowEdit" Collapsed="true">
+    <Position X="81.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgABAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\ShowEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VerticalLine" Collapsed="true">
+    <Position X="62" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAACAAAAAAAAQAEAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\VerticalLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YScale" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAAAAAAAAAAgAAAAAEAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\PropertyEdit\YScale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Public_BPMLine" Collapsed="true">
+    <Position X="69" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Public\Public_\Public_BPMLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Public_LineDiv" Collapsed="true">
+    <Position X="72.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAxiUAAARABAAAAQAAUEAAAACAAAAAUAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Public\Public_\Public_LineDiv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortcutKey" Collapsed="true">
+    <Position X="77.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAgAAAAACAAAgIAAAAAAAAAAAAAAAAACAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Public\ShortcutKey\ShortcutKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortcutKeyManager" Collapsed="true">
+    <Position X="28.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACACCAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Public\ShortcutKey\ShortcutKeyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortcutKeyTable" Collapsed="true">
+    <Position X="79.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAggAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\Public\ShortcutKey\ShortcutKeyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddDrag" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddDrag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddFlick" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddFlick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddFullFlick" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddFullFlick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddHold" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAAAACAAAkAAAAAAAAAAAQAAIQAAQAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddHold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddNote" Collapsed="true">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddPoint" Collapsed="true">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddTap" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\AddNote\AddTap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortcutKeyEvent" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAAEAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\ShortcutKeyEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShortcutKeyEvents" Collapsed="true">
+    <Position X="23.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartEdit\ShortcutKeyEvents\ShortcutKeyEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutoplayController" Collapsed="true">
+    <Position X="30.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAIAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\AutoplayController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxController" Collapsed="true">
+    <Position X="79.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKwCAwMAYAACESCIA6CSAgDyAAQAEOBtgAofMBAMAgM=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\BoxController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="74.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAoAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecideLineController" Collapsed="true">
+    <Position X="69" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQQABEAAABAAAAAACAAAgEAEAAAAIAIRAECAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\DecideLineController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragController" Collapsed="true">
+    <Position X="5.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\DragController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlickController" Collapsed="true">
+    <Position X="10" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\FlickController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FullFlickController" Collapsed="true">
+    <Position X="12.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAECAAAAAAAACAAAAAAAAAAECAAACAACAAAg=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\FullFlickController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitEffectController" Collapsed="true">
+    <Position X="72.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\HitEffectController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitSoundController" Collapsed="true">
+    <Position X="74.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\HitSoundController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HoldController" Collapsed="true">
+    <Position X="1" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAAAAAAAABAEKAIEAACgEAQAAACADAACAAAQ=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\HoldController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineNoteController" Collapsed="true">
+    <Position X="79.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAACEAgAAAAABAhYAEEACAAAEgAABAAADAICA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\LineNoteController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NoteController" Collapsed="true">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgDAgACAAAAwiAAAAASAEFAAIACCgAAAQBDAADAQAg=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\NoteController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RenderOrder" Collapsed="true">
+    <Position X="74.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\NoteController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointController" Collapsed="true">
+    <Position X="3.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAQAAAAABAAAAAAAAAAAAEAAAIAAEAAAAACBACgAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\PointController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RippleController" Collapsed="true">
+    <Position X="76" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAgBAAAgAQAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\RippleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TapController" Collapsed="true">
+    <Position X="7.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Controller\TapController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartPreviewEdit" Collapsed="true">
+    <Position X="57.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAIAAAAAAAIIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Edit\ChartPreviewEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssetManager" Collapsed="true">
+    <Position X="64.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIAAIAAAEAAAAAAgAAAAIAAAAAAAAABAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Manager\AssetManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxManager" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Manager\BoxManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JudgeManager" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Manager\JudgeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeckleManager" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA0AAAAAQAQAAAAAEIAAAAAAAAAAAAAQAIBAMAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Manager\SpeckleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebManager" Collapsed="true">
+    <Position X="32.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACAiAAAAAAAAAAAAAAQAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Manager\WebManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chart" Collapsed="true">
+    <Position X="37.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAABAAAAAAAAAAAGAAAAABAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\Chart\Chart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPMManager" Collapsed="true">
+    <Position X="53" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIgAQAAAAACAAAAAAAAAggAAAASAAAAAAAAEABAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Manager\BPMManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitEffectManager" Collapsed="true">
+    <Position X="59.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAACAAAAAAAAAAAAgAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Manager\HitEffectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitSoundManager" Collapsed="true">
+    <Position X="66.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAIAAAgAAAAAAAAAAEAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Manager\HitSoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressManager" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ERCEAAAAYAAQAQAQAAAAQAQgQAAAAAAAAAAAgEAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Manager\ProgressManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateManager" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAAAAIAAAAAAEAAAAAQAAAAAAAAAgAACgAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Manager\StateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValueManager" Collapsed="true">
+    <Position X="19.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASQgACBAYEAEgQAhBAAACAAQBAEgAAQgAIEghAIAAEQ=</HashCode>
+      <FileName>Assets\Scripts\Public\Manager\ValueManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Public_AnimationCurveEaseEnum" Collapsed="true">
+    <Position X="81.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Public_\Public_AnimationCurveEaseEnum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Public_Button" Collapsed="true">
+    <Position X="70.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Public_\Public_Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Algorithm" Collapsed="true">
+    <Position X="69" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\Algorithm\Algorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameUtility" Collapsed="true">
+    <Position X="69" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAABiAAAAAAABAAAAAAAAEAAAAAgAAAgIAQAAAABA=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\GameUtility\GameUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectPoolBase&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAIQBAAAEAAAAAEAAAAgAAQAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\ObjectPool\ObjectPoolBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectPoolQueue&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAABAAAIAAAAAAAABAAEAAAAEAAQAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\ObjectPool\ObjectPoolQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmptySingleton&lt;T&gt;" Collapsed="true">
+    <Position X="74.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\Singleton\EmptySingleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonoBehaviourSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="35" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\Singleton\MonoBehaviourSingleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.ChartTools" Collapsed="true">
+    <Position X="77.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAgAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.ChartData" Collapsed="true">
+    <Position X="76" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAIAQAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.MetaData" Collapsed="true">
+    <Position X="69" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAEAAAAAAAAAEAAIAAAAQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.GlobalData" Collapsed="true">
+    <Position X="70.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAAAAAAAAAAQAAAAAAIAKAgAAAAAAAAIAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.Text" Collapsed="true">
+    <Position X="69" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAJAwIGAgAAAAAAAIAQARAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.BPM" Collapsed="true">
+    <Position X="70.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAQAKAAAAAAAAAAAACAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.Box" Collapsed="true">
+    <Position X="76" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.Line" Collapsed="true">
+    <Position X="77.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAARAAAAAACAAAAAAAAAAAAAAAAQAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.Note" Collapsed="true">
+    <Position X="72.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAAAAAAAAAAIAAIAAAAAIgAAAAAAggAACIAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.BoxEvents" Collapsed="true">
+    <Position X="69" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAABAQABgCAAAAAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.Event" Collapsed="true">
+    <Position X="76" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAgACAgAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Chart.EventString" Collapsed="true">
+    <Position X="79.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAgACAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.Box" Collapsed="true">
+    <Position X="77.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.Text" Collapsed="true">
+    <Position X="70.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.BoxEvents" Collapsed="true">
+    <Position X="81.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAABAQABgCAAAAAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.Line" Collapsed="true">
+    <Position X="76" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.Note" Collapsed="true">
+    <Position X="70.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAAAAAAAAAAIAAICAAAAAAAAAAAAAgAACAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.Event" Collapsed="true">
+    <Position X="77.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAgACAgAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.ChartEdit.BPMTime" Collapsed="true">
+    <Position X="72.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAIAAAAAQAAAAAACAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Extension.AnimationCurveExtension" Collapsed="true">
+    <Position X="70.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\Extension\Extension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Blophy.Extension.Mathm" Collapsed="true">
+    <Position X="81.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\UtilityCode\Extension\Extension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Speckle" Collapsed="true">
+    <Position X="69" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAASAAAIAAAAIAAAAAAAACCAAgAAogAAMAEAAQEBAA=</HashCode>
+      <FileName>Assets\Scripts\ChartPreview\Manager\SpeckleManager.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="NoteJudge" Collapsed="true">
+    <Position X="72.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\Enumerate\Enumerate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Hard" Collapsed="true">
+    <Position X="69" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAADAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\Enumerate\Enumerate.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Blophy.Chart.NoteType" Collapsed="true">
+    <Position X="74.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIggAAAAAAAQAACQAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Blophy.Chart.NoteEffect" Collapsed="true">
+    <Position X="70.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Public\Data\ChartData\ChartData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
